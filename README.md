@@ -33,7 +33,7 @@ This project demonstrates RS-485 based serial communication between two PIC18F87
 
 ## Pin Usage
 - UART TX/RX: RC6 / RC7
-- RS-485 RE/DE control
+- RS-485 RE/DE control: RD0
 - LCD Data & Control: PORTD
 
 ## Tools Used
@@ -49,4 +49,5 @@ This project demonstrates RS-485 based serial communication between two PIC18F87
 ## Applications
 - Industrial communication
 - Multi-drop serial networks
+
 - Embedded control systems
